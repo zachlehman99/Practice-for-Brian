@@ -1,0 +1,67 @@
+nav {
+	text-align: center;
+	background-color: cyan;
+}
+
+.bar {
+	background-color: red;
+	font-size: 25px;
+	color: yellow;
+	padding: 1px;
+	margin: 70px;
+	display: inline;
+	width: 33%;
+}
+
+a:hover {
+	background-color: black;
+	color: cyan;
+}
+
+body {
+	border: ridge;
+	border-color: purple;
+	border-width: 3px;
+	padding: 8px;
+}
+
+h1 {
+	text-align: center;
+	color: powderblue;
+	background-color: black;
+	padding: 5px;
+	border: ridge 12px;
+	border-color: pink;
+}
+
+.first {
+	position: relative;
+	top: 10px;
+	left: 100px;
+	background: yellow;
+	width: 75%;
+}
+
+h2 {
+	text-align: center;
+	color: yellow;
+	background-color: red;
+}
+
+section {
+	background-color: cyan;
+	color: slategrey;
+}
+
+.last {
+	border: ridge black 3px;
+	margin: 8px
+}
+
+ul { 
+	margin-left: 30%;
+}
+
+footer {
+	text-align: center;
+}
